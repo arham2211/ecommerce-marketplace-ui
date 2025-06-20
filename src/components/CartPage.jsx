@@ -1,6 +1,6 @@
 import React from 'react'
 import product from '../assets/images/product.png'
-import { Link } from 'react-router-dom/cjs/react-router-dom.min';
+import { Link } from 'react-router-dom';
 
 export default function CartPage() {
     return (

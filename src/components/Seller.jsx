@@ -6,7 +6,8 @@ import product1 from '../assets/images/product1.png';
 import product2 from '../assets/images/product2.png';
 import product3 from '../assets/images/product3.png';
 import product4 from '../assets/images/product4.png';
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 
 export default function OurProducts() {
@@ -58,11 +59,16 @@ export default function OurProducts() {
                                 <h3 className="mb-1">YOUR HEADING HERE!</h3>
                                 <div className="review d-flex align-items-center gap-3 mb-2">
                                     <div className="d-flex gap-1 text-orange">
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
                                     </div>
 
                                     <p className="mb-0 text-grey">(05 Reviews)</p>
@@ -92,11 +98,16 @@ export default function OurProducts() {
                                 <h3 className="mb-1">YOUR HEADING HERE!</h3>
                                 <div className="review d-flex align-items-center gap-3 mb-2">
                                     <div className="d-flex gap-1 text-orange">
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
                                     </div>
 
                                     <p className="mb-0 text-grey">(05 Reviews)</p>
@@ -126,11 +137,16 @@ export default function OurProducts() {
                                 <h3 className="mb-1">YOUR HEADING HERE!</h3>
                                 <div className="review d-flex align-items-center gap-3 mb-2">
                                     <div className="d-flex gap-1 text-orange">
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
                                     </div>
 
                                     <p className="mb-0 text-grey">(05 Reviews)</p>
@@ -160,11 +176,16 @@ export default function OurProducts() {
                                 <h3 className="mb-1">YOUR HEADING HERE!</h3>
                                 <div className="review d-flex align-items-center gap-3 mb-2">
                                     <div className="d-flex gap-1 text-orange">
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
                                     </div>
 
                                     <p className="mb-0 text-grey">(05 Reviews)</p>
@@ -194,11 +215,16 @@ export default function OurProducts() {
                                 <h3 className="mb-1">YOUR HEADING HERE!</h3>
                                 <div className="review d-flex align-items-center gap-3 mb-2">
                                     <div className="d-flex gap-1 text-orange">
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
+                                        <FontAwesomeIcon icon={faStar} />
+
                                     </div>
 
                                     <p className="mb-0 text-grey">(05 Reviews)</p>

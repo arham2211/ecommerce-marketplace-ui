@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 * {
 
   margin: 0px;
@@ -32,7 +34,7 @@ body {
 
 .bg-dark {
 
-  background-color: black !important;
+  background-color: #000000 !important;
 }
 
 .border-left {

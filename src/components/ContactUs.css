@@ -10,7 +10,10 @@
 
     font-size: 28px;
 }
+.btn:hover{
 
+    background-color: rgb(255 94 24) !important;
+}
 #contact .form h1,
 #contact .round h1 {
 
