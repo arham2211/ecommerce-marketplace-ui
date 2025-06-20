@@ -1,12 +1,65 @@
-# React + Vite
+# 🛍️ E-Commerce Marketplace UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The front-end interface of our **e-commerce marketplace** website — designed with a modern, responsive UI using **React**, **Bootstrap**, and **Font Awesome**, powered by **Vite** for blazing-fast builds.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [ecommerce-marketplace-ui.vercel.app](https://ecommerce-marketplace-ui.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⚡ Built with [Vite](https://vitejs.dev/)
+- 💅 Clean, modern UI/UX
+- 🧭 Client-side routing with `react-router-dom`
+- 🎠 Product sliders using `react-slick` and `slick-carousel`
+- 🧰 Reusable components
+- 🎨 Responsive Bootstrap 5 layout
+- 💼 Font Awesome icons (brands + solid)
+- 📱 Mobile-first and fully responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+| Tech               | Description                      |
+|--------------------|----------------------------------|
+| React              | JavaScript library for UI        |
+| Vite               | Fast frontend tooling            |
+| Bootstrap 5        | CSS framework                    |
+| Font Awesome       | Icon library                     |
+| React Router DOM   | SPA routing                      |
+| React Slick        | Carousel implementation          |
+| jQuery             | Slick carousel dependency        |
+
+---
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Node.js (v18+ recommended)
+- npm or yarn
+
+### 1. Installation
+
+```bash
+git clone https://github.com/arham2211/ecommerce-marketplace-ui.git
+cd ecommerce-marketplace-ui
+npm install
+```
+2. Install dependencies
+   
+```bash
+cd ecommerce-marketplace-ui
+npm install
+```
+3. Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** Arham Affan  
+**GitHub:** [@arham2211](https://github.com/arham2211)  
+**Contact:** arhamaffan22@gmail.com
